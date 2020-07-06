@@ -54,6 +54,8 @@ My preferred code style for C is different from Casey's.
 
 ## Roadmap
 
+Using static as internal: https://www.youtube.com/watch?v=GAi_nTx1zG8&list=PLEMXAbCVnmY4ZDrwfTpTdQeFe5iWtKxyb&index=5
+
 <!-- MarkdownTOC -->
 
 - [Day 1: Setting Up the Windows Build](#day-1-setting-up-the-windows-build)
